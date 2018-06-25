@@ -1,0 +1,185 @@
+<div class="row">
+                    <div class="col-md-12">
+
+                        <!-- COLUMN CHART START -->
+                        <div class="column-chart">
+                            <div class="legend legend-left hidden-xs">
+                                <h3 class="legend-title">ME</h3>
+                            </div>
+                            <!-- //.legend -->
+
+                            <div class="legend legend-right hidden-xs">
+                                <div class="item">
+                                    <h4>Best</h4>
+                                </div>
+
+                                <div class="item">
+                                    <h4>Better</h4>
+                                </div>
+
+                                <div class="item">
+                                    <h4>Pretty Good</h4>
+                                </div>
+
+                                <div class="item">
+                                    <h4>Good</h4>
+                                </div>
+                            </div>
+                            <!-- //.legend -->
+
+                            <div class="chart clearfix">
+                                <div class="item">
+                                    <div class="bar">
+                                        <span class="percent">86%</span>
+
+                                        <div class="item-progress" data-percent="86">
+                                            <span class="title">Communication</span>
+                                        </div><!-- //.item-progress -->
+                                    </div><!-- //.bar -->
+                                </div><!-- //.item -->
+
+                                <div class="item">
+                                    <div class="bar">
+                                        <span class="percent">92%</span>
+
+                                        <div class="item-progress" data-percent="92">
+                                            <span class="title">Confident</span>
+                                        </div><!-- //.item-progress -->
+                                    </div><!-- //.bar -->
+                                </div><!-- //.item -->
+
+                               <div class="item">
+                                    <div class="bar">
+                                        <span class="percent">98%</span>
+
+                                        <div class="item-progress" data-percent="98">
+                                            <span class="title">Commitment</span>
+                                        </div><!-- //.item-progress -->
+                                    </div><!-- //.bar -->
+                                </div><!-- //.item -->
+
+                                <div class="item">
+                                    <div class="bar">
+                                        <span class="percent">78%</span>
+
+                                        <div class="item-progress" data-percent="78">
+                                            <span class="title">Creative</span>
+                                        </div><!-- //.item-progress -->
+                                    </div><!-- //.bar -->
+                                </div><!-- //.item -->
+
+                                <div class="item">
+                                    <div class="bar">
+                                        <span class="percent">88%</span>
+
+                                        <div class="item-progress" data-percent="88">
+                                            <span class="title">Cooperative</span>
+                                        </div><!-- //.item-progress -->
+                                    </div><!-- //.bar -->
+                                </div><!-- //.item -->
+                            </div><!-- //.chart -->
+                        </div> <!-- //COLUMN CHART END -->
+
+                    </div><!-- //.col-md-12 -->
+                </div><!-- //.row -->
+
+
+
+
+                ============================================================================================
+
+
+                							<!-- resume-item3 -->
+               <!--             <div class="resume-item">
+                                <div class="resume-year">
+                                    <span class="resume-year">2012 - 2013</span>
+                                </div>
+                                <!-- //.resume-year --> 
+							
+                                <!-- <div class="panel">
+                                    <div class="panel-heading" role="tab" id="heading3">
+                                        <div class="panel-title">
+										<div class="resume-btn">
+										<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#work3" aria-expanded="false" aria-controls="work3"></a>
+										</div><!-- //.resume-btn -->
+                                            <h4 class="resume-title">Java Developer - TSL Virage CAIS</h4>
+                                        </div>
+                                        <!-- //.panel-title -->
+                                    </div>
+                                    <!-- //.panel-heading -->
+
+                                    <div id="work3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+                                         <div class="panel-body text-dark">
+                                             <div class="subheading1">Key Responsibilities:</div>
+                                             <p><ul>
+											 <li>Delivered 8 releases successfully in expected quality.</li>
+<li>Developed the application using various patterns including MVC, Singleton, Dependency Injection.</li>
+<li>Produced RESTful APIs to obtain Call Detail Records for individual customer MSISDN based on the SIM and IMEI using Spring Core and Spring MVC.</li>
+<li>Developed front end using HTML, CSS and JavaScript.</li>
+<li>Used JavaMail API to send email alerts with necessary attachments which prevented 46% of major issues in credit check, billing, plan subscription changes, activations etc.</li>
+<li>Used Log4j for debugging and JUnit4 for unit testing.</li>
+<li>Used Spring JDBC to implement DAO logic.</li>
+<li>Developed several SQL scripts for Oracle 10g database.</li>
+<li>Automated SQL script execution process with a UNIX shell script thereby reducing manual errors by 67%.</li>
+<li>Organized Spring Beans and Java packages to separate business services, persistence, and presentation layers, thereby promoting database flexibility and ease maintenance.</li>
+<li>Used Maven for build and deployment.</li>
+<li>Worked closely with team members across all modules.</li>
+<li>Prepared and maintained project documentation as per client standards in Knowledge Management Repository.</li>
+<li>Provided support post deployment for maintenance activities and bug fixing.</li>
+<li>Participated in client KT (Knowledge Transition) sessions and assisted the team in understanding the application.</li>
+<li>Effectively collaborated with designers, architects, release controllers, and project teams on a regular basis.</li>
+                                            </ul></p>
+                                        </div><!-- //.panel-body -->
+                                    </div><!-- //.panel-collapse -->
+                                </div><!-- //.panel -->
+                            </div><!-- //.resume-item3 -->
+							 -->
+							<!-- resume-item4 -->
+                            <div class="resume-item">
+                                <div class="resume-year">
+                                    <span class="resume-year">2011 - 2012</span>
+                                </div>
+                                <!-- //.resume-year -->
+
+                                <div class="panel">
+                                    <div class="panel-heading" role="tab" id="heading4">
+                                        <div class="panel-title">
+										<div class="resume-btn">
+										<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#work4" aria-expanded="false" aria-controls="work4"></a>
+										</div><!-- //.resume-btn -->
+                                            <h4 class="resume-title">Programmer Analyst - Scope Watch Tool</h4>
+                                        </div>
+                                        <!-- //.panel-title -->
+                                    </div>
+                                    <!-- //.panel-heading -->
+
+                                    <div id="work4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+                                         <div class="panel-body text-dark">
+                                             <div class="subheading1">Key Responsibilities:</div>
+                                             <p><ul>
+											 <li>Involved in requirements gathering with Project leads and architects.</li>
+<li>Designed wireframes, checked the feasibility and identified possible risks.</li>
+<li>Involved in developing UML (Unified Modeling Language) class diagrams.</li>
+<li>Implemented multi-tier architecture from scratch using MVC pattern.</li>
+<li>Used Ext-JS framework for developing high performance grids, charts and trees.</li>
+<li>Developed front end using HTML, CSS, Ext-JS and JSP.</li>
+<li>Responsible for writing servlet code to handle clients’ requests, access logic from service layer and to return a dynamic response.</li>
+<li>AJAX XMLHttpRequest object was used for exchanging data with the server in XML format.</li>
+<li>Apache POI library was used to develop the functionality of reading and writing data from/to excel sheets thereby providing export of RTM details in excel format for a specific project with a single click.</li>
+<li>Developed SQL queries for MySQL database.</li>
+<li>Actively involved in code reviews.</li>
+<li>Developed ANT build files for managing the build.</li>
+<li>Used JUnitReport task for generating test reports.</li>
+<li>Coordinated with the team for deployment of the application to Apache Tomcat server.</li>
+<li>Performed unit testing using JUnit.</li>
+<li>Involved in bug fixing in testing phase and provided support post deployment.</li>
+                                            </ul></p>
+                                        </div><!-- //.panel-body -->
+                                    </div><!-- //.panel-collapse -->
+                                </div><!-- //.panel -->
+                            </div><!-- //.resume-item4 -->
+							
+                        </div><!-- //.panel-group -->
+                    </div><!-- //.col-md-10 -->
+					</div>					
+					<!-- //.EXPERIENCE -->
