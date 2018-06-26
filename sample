@@ -183,3 +183,322 @@
                     </div><!-- //.col-md-10 -->
 					</div>					
 					<!-- //.EXPERIENCE -->
+
+                    <!-- project5 -->
+							<div class="col-md-4 col-sm-6 col-xs-12">
+							<figure class="figure project-holder">
+								<img class="figure-img img-rounded img-fluid img-responsive" src="Images/4_TributePage.jpg" alt="TributePage">
+								<figcaption class="figure-caption">
+									<h2>A Tribute Page</h2>
+									<h4>Front End Developer</h4>
+									<div>
+										<a data-toggle="modal" href="#TributeModal">
+										<span class="glyphicon glyphicon-new-window align-left" aria-hidden="true"></span></a>
+										<a href="https://chandanachaitanya.github.io/tribute-to-kalam/" target="_blank"><span class="glyphicon glyphicon-link align-right" aria-hidden="true"></span></a>
+									</div>
+								</figcaption>
+							</figure>
+							</div><!-- //.project5 -->
+							
+							<!-- project4 -->
+							<div class="col-md-4 col-sm-6 col-xs-12">
+								<figure class="figure project-holder">
+									<img class="figure-img img-rounded img-fluid img-responsive" src="Images/3_ScopeWatch.jpg" alt="ScopeWatch">
+									<figcaption class="figure-caption">
+										<h2>Scope Watch</h2>
+										<h4>Programmer Analyst</h4>
+										<div>
+										<a data-toggle="modal" href="#ScopeWatchModal">
+										<span class="glyphicon glyphicon-new-window align-left" aria-hidden="true"></span></a>
+										</div>
+									</figcaption>
+								</figure>
+							</div><!-- //.project4 -->
+												
+							<!-- project3 -->
+							<div class="col-md-4 col-sm-6 col-xs-12">
+							<figure class="figure project-holder">
+								<img class="figure-img img-rounded img-fluid img-responsive" src="Images/1_TSL.jpg" alt="TSL Virage-CR RP">
+								<figcaption class="figure-caption">
+									<h2>Enable</h2>
+									<h4>Java Developer (Associate – Projects)</h4>
+									<div>
+										<a data-toggle="modal" href="#VirageEnableModal"><span class="glyphicon glyphicon-new-window align-left" aria-hidden="true"></span></a>
+									</div>
+								</figcaption>
+							</figure>
+							</div><!-- //.project3 -->
+							
+							<!-- project2 -->
+							<div class="col-md-4 col-sm-6 col-xs-12">
+								<figure class="figure project-holder">
+									<img class="figure-img img-rounded img-fluid img-responsive" src="Images/2_TSL.jpg" alt="TSL Virage-Retail">
+									<figcaption class="figure-caption">
+										<h2>TSL VIRAGE - CAIS</h2>
+										<h4>Java Developer</h4>
+										<div>
+										<a data-toggle="modal" href="#VirageCAISModal">
+										<span class="glyphicon glyphicon-new-window align-left" aria-hidden="true"></span></a>
+										</div>
+									</figcaption>
+								</figure>
+							</div><!-- //.project2 -->
+
+							<!-- project1 -->
+							<div class="col-md-4 col-sm-6 col-xs-12">
+							<figure class="figure project-holder">
+								<img class="figure-img img-rounded img-fluid img-responsive" src="Images/Blog.jpg" alt="MyBlog">
+								<figcaption class="figure-caption">
+									<h2>Selenium to the Rescue (Blog)</h2>
+									<h4>Author</h4>
+									<div>
+										<a data-toggle="modal" href="#BlogModal">
+										<span class="glyphicon glyphicon-new-window align-left" aria-hidden="true"></span></a>
+										<a href="https://seleniumtotherescue.wordpress.com/" target="_blank"><span class="glyphicon glyphicon-link align-right" aria-hidden="true"></span></a>
+									</div>
+								</figcaption>
+							</figure>
+							</div><!-- //.project1 -->
+
+                            <!-- proj3 start -->
+	<div id="VirageEnableModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+	
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<div class="modal-title"><h4 style="color:black"><strong>Enable</strong></h4></div>
+				</div> <!-- /.modal-header -->
+						
+				<div class="modal-body modal-text">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Client:</strong> EE Limited, UK
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Role:</strong> Java Developer (Associate - Projects)
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Team Size:</strong> 7
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Period:</strong> Dec 2013 to Apr 2015
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row2 -->
+					<div class="row">
+						<div class="col-md-12">
+							<strong>Domain:</strong> Telecommunications (Online Channel Applications)
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row3 -->
+					<span class="separator center"></span>
+					<div class="row">
+						<div class="col-md-12" style="padding-bottom:5px;">
+						<strong>PROJECT DESCRIPTION</strong>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<p>Project work involved development of an online channel application, “Enable” which was used by direct and indirect dealers at the stores. It is used to perform activations for customers (domestic, your group, small business, partnership and limited company), view personalized information related to their mobile accounts, upgrade plans, transfer from PAYM to PAYG etc.</p>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row2 -->
+				</div> <!-- /.modal-body -->
+						
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+<!-- //.proj3 -->
+
+<!-- proj2 start -->
+	<div id="VirageCAISModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+	
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<div class="modal-title"><h4 style="color:black"><strong>TSL VIRAGE - CAIS</strong></h4></div>
+				</div> <!-- /.modal-header -->
+						
+				<div class="modal-body modal-text">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Client:</strong> EE Limited, UK
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Role:</strong> Java Developer
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Team Size:</strong> 5
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Period:</strong> Jun 2012 – Nov 2013
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row2 -->
+					<div class="row">
+						<div class="col-md-12">
+							<strong>Domain:</strong> Telecom (Credit Risk and Revenue Protection)
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row3 -->
+					<span class="separator center"></span>
+					<div class="row">
+						<div class="col-md-12" style="padding-bottom:5px;">
+						<strong>PROJECT DESCRIPTION</strong>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<p>Worked for critical application components for UK’s largest Telecom provider EE UK on behalf of T-Systems. CAIS application collects, stores and processes account information such as phone numbers, SIM, IMEI, CDR (Call Detail Records), bill cycles etc. that are mapped to each customer.</p> 
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row2 -->
+				</div> <!-- /.modal-body -->
+						
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+<!-- //.proj2 -->
+
+<!-- proj4 start -->
+	<div id="ScopeWatchModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+	
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<div class="modal-title"><h4 style="color:black"><strong>SCOPE WATCH</strong></h4><h5 style="color:black"> (was nominated as an Innovation Project of the year 2012)</h5></div>
+				</div> <!-- /.modal-header -->
+						
+				<div class="modal-body modal-text">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Client:</strong> Cognizant Technology Solutions
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Role:</strong> Programmer Analyst
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Team Size:</strong> 3
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Period:</strong> Aug 2011 to May 2012
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row2 -->
+					<span class="separator center"></span>
+					<div class="row">
+						<div class="col-md-12" style="padding-bottom:5px;">
+						<strong>PROJECT DESCRIPTION</strong>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<p>Scope Watch is a tool designed to track requirements and various mapping details of individual projects in a single UI screen. It automates the Requirements Traceability Matrix. Export of RTM details in excel format for a specific project can be generated with a single click!</p> 
+							<p>Dashboard provides complete project status stage wise using tables, pie charts and bar graphs. EXT-JS framework used to build the UI for this tool gives high performance grids, trees, menus thereby improving the usability and providing a gentle look and feel to the user. Thus saving effort and time that's usually spent in manually verifying coverage, and will help avoiding the usually expensive mistake of missed/incorrect implementation of requirements.</p>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row2 -->
+				</div> <!-- /.modal-body -->
+						
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+<!-- //.proj4 -->
+
+<!-- proj5 start -->
+	<div id="TributeModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+	
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<div class="modal-title"><h4 style="color:black"><strong>A TRIBUTE PAGE</strong></h4></div>
+				</div> <!-- /.modal-header -->
+						
+				<div class="modal-body modal-text">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Client:</strong> freeCodeCamp
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Role:</strong> Front End Developer
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Period:</strong> June 2016
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>URL:</strong> <a href="https://chandanachaitanya.github.io/tribute-to-kalam/" target="_blank">https://chandanachaitanya.github.io/tribute-to-kalam/</a>
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row2 -->
+					<span class="separator center"></span>
+					<div class="row">
+						<div class="col-md-12" style="padding-bottom:5px;">
+						<strong>PROJECT DESCRIPTION</strong>
+						</div> <!-- /.col-md-12 -->sss
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<p>The main objective was to apply HTML5 and CSS skills. Bootstrap framework was used for achieving a responsive design.</p>
+							<p>User stories: 
+							<ul><li>User should be able to view the tribute page with an image and text.</li>
+							<li>The page should include a timeline and a quote.</li> 
+							<li>User should also be able to click on a link that will redirect to an external website with further information on the topic.</li></ul>
+							</p>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row2 -->
+				</div> <!-- /.modal-body -->
+						
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+<!-- //.proj5 -->
+
+
+<!-- proj1 start -->
+	<div id="BlogModal" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+	
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<div class="modal-title"><h4 style="color:black"><strong>SELENIUM TO THE RESCUE</strong> (My Blog)</h4><h5 style="color:black">- A tutorial worth reading</h5></div>
+				</div> <!-- /.modal-header -->
+						
+				<div class="modal-body modal-text">
+					<div class="row">
+						<div class="col-md-6 col-sm-12">
+							<strong>Role:</strong> Author
+						</div> <!-- /.col-md-6 -->
+						<div class="col-md-6 col-sm-12">
+							<strong>Period:</strong> Sep 2015 - Till Date
+						</div> <!-- /.col-md-6 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<strong>URL:</strong><a href="https://seleniumtotherescue.wordpress.com/" target="_blank"> https://seleniumtotherescue.wordpress.com/</a>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row3 -->
+					<span class="separator center"></span>
+					<div class="row">
+						<div class="col-md-12" style="padding-bottom:5px;">
+						<strong>DESCRIPTION</strong>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row1 -->
+					<div class="row">
+						<div class="col-md-12">
+							<p>I started this blog for software enthusiasts who want it all and are absolutely done with settling for less. For those who love coding, automation, testing and are greedy for more knowledge, this is the right place to be!</p> 
+							<p>My mission is to make sure that learning sticks, but with the fun part kept intact. My blog targets beginners who wish to learn Selenium Tool Suite, the easy way.</p>
+							<p>I also use this as a medium to showcase my creations.</p>
+						</div> <!-- /.col-md-12 -->
+					</div> <!-- /.row2 -->
+				</div> <!-- /.modal-body -->
+						
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+<!-- //.proj1 -->
+
+							
