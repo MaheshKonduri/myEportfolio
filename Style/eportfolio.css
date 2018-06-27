@@ -39,6 +39,11 @@ h1,h2,h3,h4
   margin: 0;
   font-family: 'Alegreya', serif;
 }
+.percentage-hardCode{
+  position: absolute;
+  padding-top: 88px;
+  padding-left: 107px;
+}
 
 a {
   color: #148914 ;
@@ -54,7 +59,12 @@ a:focus {
   color: #106b10 ;
   outline: none;
 }
-
+.percent{
+  position: absolute;
+    text-align: center;
+    padding-top: 88px;
+    padding-left: 90px;
+}
 
 /*---------------------------------------------------------------------*/
 /*  2. NAVIGATION
@@ -82,6 +92,9 @@ a:focus {
 }
 .navbar-default .navbar-header {
   position: relative;
+}
+.label{
+  font-size: 14px;
 }
 .navbar-default .navbar-brand {
   position: absolute;
